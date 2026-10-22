@@ -82,5 +82,10 @@
       "optional": true
     }
   },
-  "description": "coinbase-x402-bazaar-border sovereign enterprise"
+  "description": "coinbase-x402-bazaar-border sovereign enterprise",
+  "license": "MIT",
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/561-group/.github/blob/main/TIPS.md"
+  }
 }
