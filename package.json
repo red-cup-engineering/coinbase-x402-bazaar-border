@@ -28,7 +28,7 @@
     "@red-cup-engineering/relation-model-notation-json-codec": "workspace:*",
     "@red-cup-engineering/semantic-content-identify-service": "workspace:*",
     "@red-cup-engineering/relation-model-notation-typing": "workspace:*",
-    "@red-cup-engineering/x402-services-section": "workspace:*",
+    "@red-cup-engineering/x402-engineering-services-section": "workspace:*",
     "express": "5.2.1",
     "@red-cup-engineering/strategy-program-synthesis-work-lot-service": "workspace:*",
     "@red-cup-engineering/strategy-program-candidate-assay-service": "workspace:*",
