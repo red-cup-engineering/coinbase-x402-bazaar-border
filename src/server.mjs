@@ -1,5 +1,5 @@
 import express from "express";
-import { CDP_FACILITATOR_URL, createCdpFacilitatorContract, createExactEvmPaymentBoundary, declareDiscoveryExtension } from "@red-cup-engineering/x402-services-section/server";
+import { CDP_FACILITATOR_URL, createCdpFacilitatorContract, createExactEvmPaymentBoundary, declareDiscoveryExtension } from "@red-cup-engineering/x402-engineering-services-section/server";
 import { assertNoCommercialCredentials } from "./http-border.mjs";
 import { createBrokerageX402SettlementWitness } from "./settlement-witness.mjs";
 import { createBrokerageOutcomeWitnessRecorder } from "@red-cup-engineering/brokerage-independent-witness-and-books";
